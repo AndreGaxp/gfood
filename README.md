@@ -1,4 +1,4 @@
-![Logo do projeto](https://i.postimg.cc/mk63gVbb/Banner-Readme.png)
+![Logo do projeto](https://i.postimg.cc/ZYrngLN2/Banner-Readme.png)
 
 # GFood
 
